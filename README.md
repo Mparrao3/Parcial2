@@ -1,3 +1,0 @@
-# Parcial2
-
-El parcial es...
